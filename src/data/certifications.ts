@@ -2,6 +2,21 @@ import { CertificationType } from '../types';
 
 export const certificationsData: CertificationType[] = [
   {
+    name: 'CREST Practitioner Security Analyst (CPSA)',
+    organization: 'CREST',
+    issued: 'March 2026',
+  },
+  {
+    name: 'OffSec Certified Professional (OSCP / OSCP+)',
+    organization: 'Offensive Security',
+    issued: 'July 2025',
+  },
+  {
+    name: 'CREST Registered Tester (CRT)',
+    organization: 'CREST',
+    issued: 'May 2025',
+  },
+  {
     name: 'Microsoft Certified: Security Operations Analyst Associate (SC200)',
     organization: 'Microsoft',
     issued: '2024',
