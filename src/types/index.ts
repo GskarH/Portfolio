@@ -8,16 +8,6 @@ export interface ExperienceType {
   technologies: string[];
 }
 
-export interface ProjectType {
-  title: string;
-  description: string;
-  image: string | null;
-  category: string;
-  technologies: string[];
-  githubUrl: string | null;
-  liveUrl?: string | null;
-}
-
 export interface SkillType {
   name: string;
   level?: number;

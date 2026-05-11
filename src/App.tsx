@@ -6,7 +6,6 @@ import Experience from './components/sections/Experience';
 import Education from './components/sections/Education';
 import Certifications from './components/sections/Certifications';
 import Skills from './components/sections/Skills';
-import Projects from './components/sections/Projects';
 import Hobbies from './components/sections/Hobbies';
 import Contact from './components/sections/Contact';
 import Footer from './components/layout/Footer';
@@ -22,7 +21,6 @@ function App() {
         <Education />
         <Certifications />
         <Skills />
-        <Projects />
         <Hobbies />
         <Contact />
       </main>

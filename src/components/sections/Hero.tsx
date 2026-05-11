@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
             <a href="#contact" className="btn btn-primary">
               Get In Touch
             </a>
-            <a href="#projects" className="btn btn-outline">
+            <a href="#experience" className="btn btn-outline">
               View My Work
             </a>
           </div>
