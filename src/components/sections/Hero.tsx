@@ -3,7 +3,7 @@ import { ChevronDown, ShieldCheck, Fingerprint } from 'lucide-react';
 
 const Hero: React.FC = () => {
   const [displayText, setDisplayText] = useState("");
-  const fullText = "   Cybersecurity Engineer";
+  const fullText = "   Cybersecurity Consultant";
   
   useEffect(() => {
     let index = 0;
@@ -58,9 +58,6 @@ const Hero: React.FC = () => {
           <div className="flex flex-col sm:flex-row gap-4">
             <a href="#contact" className="btn btn-primary">
               Get In Touch
-            </a>
-            <a href="#experience" className="btn btn-outline">
-              View My Work
             </a>
           </div>
         </div>

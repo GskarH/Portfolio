@@ -9,7 +9,7 @@ const About: React.FC = () => {
         <div className="w-full"> {/* Full width content */}
           <div className="text-lg text-gray-300 space-y-6">
             <p className="w-full">
-              Passionate, logical, and solution-focused cybersecurity professional with over 5 years of proven expertise in a fast-paced, competitive environment, providing crucial technical support to project teams, clients, and government initiatives. 
+              Passionate, logical, and solution-focused cybersecurity professional with over 6 years of proven expertise in a fast-paced, competitive environment, providing crucial technical support to project teams, clients, and government initiatives. 
             </p>
             <p className="w-full">              
               Additionally, a graduate with Master of Science in Security by Design, equipped with advanced knowledge and hands-on experience to fortify cybersecurity frameworks. Committed to elevating data protection standards and safeguarding against emerging threats while ensuring compliance with industry best practices. 
